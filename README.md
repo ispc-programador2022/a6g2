@@ -8,4 +8,5 @@ Sebastian Galvan 🐱‍👤
 Fernando Geronimo
 
 Maira Gaytan
-Jose Pablo Gallotti 
+
+Jose Pablo Gallotti.
