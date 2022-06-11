@@ -3,5 +3,8 @@ from ing2Enteros import ing2i
 from ing2Strings import ing2s
 
 bienvenida()
-ing2i()
-ing2s()
+nums = ing2i()
+cadenas = ing2s()
+
+print(nums)
+print(cadenas)
