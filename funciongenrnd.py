@@ -7,8 +7,7 @@ def genrnd ():
         my_list.append( r.randint (0,100))
    
     return my_list
-lista= genrnd()
-lista
+
 
 
  
