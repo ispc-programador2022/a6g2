@@ -21,6 +21,6 @@ def p1(param1, param2, param3):
 
 
 # Test en consola de la función "p1"
-print("Test-01 p1 (Resultado esperado: 74.64):", p1(12.4, 0.4, 6.22))
-print("Test-02 p1 (Resultado esperado: 80):", p1(30, 10, 4))
-print("Test-03 p1 (Resultado esperado: -32):", p1(2, 10, 4))
+# print("Test-01 p1 (Resultado esperado: 74.64):", p1(12.4, 0.4, 6.22))
+# print("Test-02 p1 (Resultado esperado: 80):", p1(30, 10, 4))
+# print("Test-03 p1 (Resultado esperado: -32):", p1(2, 10, 4))
