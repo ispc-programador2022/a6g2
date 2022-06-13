@@ -3,6 +3,8 @@ a6g2-team-1 created by GitHub Classroom
 
 Prueba online de readme.txt
 
+Ma. Inés García B.🦄
+
 Sebastian Galvan 🐱‍👤
 
 Fernando Geronimo
@@ -16,3 +18,9 @@ Pedro Ghirardi
 Jose Pablo Gallotti
 
 David Gamarra 
+
+Julian Grosso
+
+Eber Gonzalez  
+
+fabian gomez
