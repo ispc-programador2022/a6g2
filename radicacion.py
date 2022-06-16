@@ -1,4 +1,2 @@
-num_1 = 9
-num_2 = 2
-
-print(pow(num_1,num_2))
+def radicacion (p1, p2):
+    return pow (p2, 1 / p1)
