@@ -6,3 +6,4 @@ def radicacion (base, indice):
         indice 
     """
     return pow(base, 1/indice )
+
