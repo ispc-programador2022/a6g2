@@ -1,5 +1,4 @@
 def ing2i():
-    
     """
         Permite ingresar 2 numeros 
     """

@@ -1,2 +1,8 @@
-def radicacion (p1, p2):
-    return pow (p2, 1 / p1)
+def radicacion (base, indice):
+    """retorna la raíz del primero respecto del segundos parámetros
+
+    Args:
+        base 
+        indice 
+    """
+    return pow(base, 1/indice )

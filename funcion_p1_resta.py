@@ -1,7 +1,7 @@
-from Func_Resta import Fun_resta
+from resta import resta
 from producto import producto
 
-def p1(param1, param2, param3):
+def funcion_p1_resta(param1, param2, param3):
     """Función que resta los dos primeros parámetros "p1" y "p2" y los
        multipica por el parámetro "p3" usando las funciones externas "resta" y "producto".
     Args:
@@ -12,8 +12,8 @@ def p1(param1, param2, param3):
         int | float: Resultado final de las operaciones con redondeo de 2 decimales.
     """
     
-    op_resta = Fun_resta(param1, param2)
-    result = round(producto(op_resta, param3), 2)
+    op_resta = resta(param1, param2)
+    result = producto(op_resta, param3)
     return result
 
 
