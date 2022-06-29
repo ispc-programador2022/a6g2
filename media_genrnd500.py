@@ -1,6 +1,6 @@
 from genrnd500 import genrnd
 
-def media_genrnd500k():
+def media_genrnd500():
     """Función que calcule la media del vector obtenido en genrnd500.
 
     Returns:
@@ -14,4 +14,4 @@ def media_genrnd500k():
 
 
 # Test
-# print(media_genrnd500k())
+# print(media_genrnd500())
