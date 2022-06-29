@@ -1,4 +1,4 @@
-from genrnd500 import genrnd500
+from genrnd500 import genrnd
 
 def media_genrnd500k():
     """Función que calcule la media del vector obtenido en genrnd500.
@@ -7,7 +7,7 @@ def media_genrnd500k():
         int | float: Resultado final de la media del vector.
     """
         
-    num_list = genrnd500()
+    num_list = genrnd()
     media = sum(num_list) / len(num_list)
     
     return media
